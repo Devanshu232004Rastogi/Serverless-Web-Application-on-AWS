@@ -11,7 +11,7 @@ The application is built on a robust serverless architecture, leveraging several
 ### Architectural Diagram
 
 Below is a visual representation of the serverless web application architecture:
-./architectureDiagram.png
+<img src="https://github.com/Devanshu232004Rastogi/Serverless-Web-Application-on-AWS/blob/main/architectureDiagram.png" />
 ### Component Breakdown:
 
 * **Users:** End-users accessing the web application from any geographical location.
